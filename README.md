@@ -1,4 +1,4 @@
-<h1 align="center">Coronary-Heart-Disease-Prediction</h1>
+<h1 align="center">Coronary Heart Disease Prediction</h1>
 This is the Jupyter Notebook and the Dataset for the mentioned Classification Predictive Modeling
 
 
